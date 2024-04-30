@@ -1,0 +1,7 @@
+{
+  "proto_package_space": "tld.myorg.domain1",
+  "dart_package_name": "tld_myorg_domain1",
+  "project_name": "test_package",
+  "description": "A generated Very Good Dart package.",
+  "publishable": false
+}
